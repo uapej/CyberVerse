@@ -2,6 +2,14 @@
 
 Personal collection of cybersecurity, networking, Linux, Raspberry Pi, and automation projects.
 
+## CyberSpace
+
+Where the magic happens. Thinkpad used to:
+- Complete THM labs/ modules
+- Study for Sec+ through videos/ notetaking/ hands-on learning
+- Remotely access Raspberry Pi 5
+- Run VMs
+
 ## Current Projects
 
 ### CyberVoid
