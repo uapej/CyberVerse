@@ -24,7 +24,7 @@ CyberVoid is my Raspberry Pi 5 home lab project
 ⚠️ Under Maintenance 
 - Static IP configuration accidentally isolated the device from the network.
 - Recovery scheduled after monitor cable arrives.
-  Status: Repaired!
+-  Status: Repaired!
 
 ## Planned Projects
 
