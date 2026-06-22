@@ -41,6 +41,6 @@ Learned the importance of verifying routing and connection state before assuming
 - Home Automation
 
 ## Screenshots
-pictures/site_ssh.png
+![Local Website](pictures/site_ssh.png)
 
 Built by Jaden Harris
