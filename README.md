@@ -40,4 +40,7 @@ Learned the importance of verifying routing and connection state before assuming
 - Family Dashboard
 - Home Automation
 
+## Screenshots
+
+
 Built by Jaden Harris
