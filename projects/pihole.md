@@ -9,12 +9,10 @@
 
 ## Environment
 
-```text
 Hostname: CyberVoid
 Pi-hole IP: 192.168.1.133
 Gateway: 192.168.1.254
 Router: AT&T Gateway
-```
 
 ## Problem Encountered
 
@@ -30,97 +28,65 @@ After installation:
 
 Command:
 
-```cmd
 nslookup google.com 192.168.1.133
-```
+
 
 Result:
 
-```text
 Pi-hole successfully resolved DNS requests.
-```
 
 Conclusion:
 
-```text
 Pi-hole was functioning correctly.
-```
-
----
 
 ### Step 2: Identify Active DNS Servers
 
 Command:
 
-```cmd
 ipconfig /all
-```
 
 Observed:
 
-```text
 192.168.1.254
 2600:1702:8157:9120::1
-```
 
 Conclusion:
 
-```text
 Clients were using AT&T DNS instead of Pi-hole.
-```
-
----
 
 ### Step 3: Manual DNS Testing
 
 Configured laptop DNS manually:
 
-```text
 192.168.1.133
-```
 
 Result:
 
-```text
 Queries immediately appeared in Pi-hole.
-```
 
 Conclusion:
 
-```text
 Pi-hole functionality confirmed.
-```
-
----
 
 ### Step 4: DHCP Investigation
 
 Discovered:
 
-```text
 AT&T gateway does not allow custom DNS distribution through DHCP.
-```
 
 Solution:
 
-```text
 Disable AT&T DHCP
 Enable Pi-hole DHCP
-```
-
----
 
 ## Final Configuration
 
 ### AT&T Gateway
 
-```text
 DHCP: Disabled
-```
 
 ### Pi-hole
 
-```text
 DHCP: Enabled
 
 Range:
@@ -128,18 +94,13 @@ Range:
 
 Gateway:
 192.168.1.254
-```
-
----
 
 ## Results
 
-```text
 Total Queries: 129
 Queries Blocked: 15
 Blocked Percentage: 11.6%
 Active Clients: 4
-```
 
 ### Verified
 
@@ -147,8 +108,6 @@ Active Clients: 4
 * DHCP lease distribution functioning
 * Multiple devices connected
 * Advertisement blocking operational
-
----
 
 ## Lessons Learned
 
@@ -170,13 +129,9 @@ The root cause was not Pi-hole itself.
 
 The issue was that the router continued advertising AT&T DNS servers through DHCP, preventing client devices from using Pi-hole automatically.
 
----
-
 ## Project Outcome
 
-```text
 SUCCESSFUL
-```
 
 Pi-hole now operates as both:
 
