@@ -33,6 +33,8 @@ A physical console connection was used to verify configuration.
 The device retained the intended static IP after reboot. 
 Learned the importance of verifying routing and connection state before assuming a configuration failure.
 
+![Pi Hole Setup]projects/PiHole)
+
 ## Planned Projects
 
 - Air Quality Monitor
