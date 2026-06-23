@@ -28,3 +28,23 @@
 - Recovered from networking misconfiguration and losing remoted access
 - Learned troubleshooting methods and console recovery
 
+## First Website
+- Hosted first website on Raspberry Pi
+- Created CyberVoid local web portal
+- Added live server time display
+- Added project tracking section
+- Added Sister's Sweet 16 Countdown feature
+
+## Pi-Hole Deployment
+- Installed Pi-Hole on Raspberry Pi
+- Diagnosed missing DNS traffic
+- Identified AT&T gateway DHCP limitations
+- Migrated DHCP services from router to Pi-Hole
+- Successfully deployed network-wide DNS filtering
+- Documented the troubleshooting process 
+
+## Professional Development
+- Created LinkedIn profile
+- Built GitHub portfolio (CyberVerse)
+- Added project documentation and screenshots
+- Began applying for Help Desk and IT support roles
