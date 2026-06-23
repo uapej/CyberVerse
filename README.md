@@ -10,6 +10,10 @@ Where the magic happens. Thinkpad used to:
 - Remotely access Raspberry Pi 5
 - Run VMs
 
+## My Journey
+
+[How did I get here?](timeline/eventtimeline.md)
+
 ## Current Projects
 
 ### CyberVoid Website
