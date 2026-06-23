@@ -24,6 +24,12 @@ Configure Pi-Hole as a network-wide DNS and DHCP server on Raspberry Pi
 
 [Pi Hole Setup](projects/pihole.md)
 
+### Home Network Map
+
+A map of my devices on my home network
+
+[Home Network Map](projects/homenetwork.jpeg)
+
 ## Planned Projects
 
 - Air Quality Monitor
