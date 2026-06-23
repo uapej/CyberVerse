@@ -1,5 +1,10 @@
 # Pi-hole Deployment Project
 
+## Overview
+
+Deployed Pi-Hole on Raspberry Pi 5 to provide network-wide DNS filtering and ad blocking.
+
+
 ## Objective
 
 * Deploy Pi-hole on Raspberry Pi
