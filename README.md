@@ -36,10 +36,7 @@ A map of my devices on my home network
 
 ## Planned Projects
 
-- Air Quality Monitor
-- Pi-hole Network Ad Blocking
-- Family Dashboard
-- Home Automation
+[What's next?](planned_projects/plans.md)
 
 ## Screenshots
 ![Local Website](pictures/site_ssh.png)
