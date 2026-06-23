@@ -48,3 +48,8 @@
 - Built GitHub portfolio (CyberVerse)
 - Added project documentation and screenshots
 - Began applying for Help Desk and IT support roles
+
+## 📍 You Are Here
+June 2026
+
+Building CyberVoid, studying for Security+, documenting projects, and working toward a career in IT/Cybersecurity
