@@ -34,4 +34,6 @@ Configure Pi-Hole as a network-wide DNS and DHCP server on Raspberry Pi
 ## Screenshots
 ![Local Website](pictures/site_ssh.png)
 
+![Pi-Hole Running](pictures/piholerunning.png)
+
 Built by Jaden Harris
