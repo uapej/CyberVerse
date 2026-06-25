@@ -18,7 +18,7 @@ Where the magic happens. Thinkpad used to:
 
 ### CyberDash
 
-Had an idea to build a custom dashboard for my car.. so I did.
+Had an idea to build a custom dashboard for my car.. so I did
 
 [CyberDash](projects/CyberDash/cyberdash.md)
 
