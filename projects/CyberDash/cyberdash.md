@@ -7,6 +7,9 @@ Create a Raspberry Pi powered custom vehicle dashboard with multiple screens and
 Fun fact:
 The entire CyberDash concept, blueprint, and first working prototype were created on the same day (June 24, 2026).
 
+## Code & HTML
+[The magic behind it all](https://github.com/uapej/CyberDash)
+
 ## Features Completed
 
 ### Flask Web Server
