@@ -87,7 +87,7 @@ The entire CyberDash concept, blueprint, and first working prototype were create
 
 ![home](/projects/CyberDash/cdhome.png)
 
-![blueprint](/projects/CyberDash/cdblueprint.jpeg)
+![blueprint](/projects/CyberDash/IMG_0777.jpeg)
 
-![architecture](/projects/CyberDash/cdarchitecture.jpeg)
+![architecture](/projects/CyberDash/IMG_0776.jpeg)
 
