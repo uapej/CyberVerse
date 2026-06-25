@@ -81,3 +81,9 @@ The entire CyberDash concept, blueprint, and first working prototype were create
 * Dedicated Display
 * Physical Buttons
 * Cyber Mode
+
+### Screenshots
+![music](projects/CyberDash/cdmusic.png)
+![home](projects/CyberDash/cdhome.png)
+![blueprint](projects/CyberDash/cdblueprint.png)
+![architecture](projects/CyberDash/cdarchitecture.png)
