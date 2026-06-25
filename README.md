@@ -49,4 +49,6 @@ A map of my devices on my home network
 
 ![Pi-Hole Running](pictures/piholerunning.png)
 
+![music](projects/CyberDash/cdmusic.png)
+
 Built by Jaden Harris
