@@ -85,9 +85,9 @@ The entire CyberDash concept, blueprint, and first working prototype were create
 ### Screenshots
 ![music](/projects/CyberDash/cdmusic.png)
 
-![home](projects/CyberDash/cdhome.png)
+![home](/projects/CyberDash/cdhome.png)
 
-![blueprint](projects/CyberDash/cdblueprint.png)
+![blueprint](/projects/CyberDash/cdblueprint.png)
 
-![architecture](projects/CyberDash/cdarchitecture.png)
+![architecture](/projects/CyberDash/cdarchitecture.png)
 
