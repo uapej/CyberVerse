@@ -16,6 +16,12 @@ Where the magic happens. Thinkpad used to:
 
 ## Current Projects
 
+### CyberDash
+
+Had an idea to build a custom dashboard for my car.. so I did.
+
+[CyberDash](projects/CyberDash/cyberdash.md)
+
 ### CyberVoid Website
 
 Created a websited hosted on Raspberry Pi available throughout my network
