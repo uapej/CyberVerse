@@ -12,14 +12,14 @@ The entire CyberDash concept, blueprint, and first working prototype were create
 ### Flask Web Server
 
 * Installed Flask
-* Created `app.py`
+* Created app.py
 * Served dashboard pages through Flask
 * Added dynamic routes for HTML files
 
 ### Pi Stats Integration
 
-* Installed `psutil`
-* Created `/stats-data` API endpoint
+* Installed psutil
+* Created /stats-data API endpoint
 * Displayed:
 
   * CPU Usage
@@ -32,7 +32,7 @@ The entire CyberDash concept, blueprint, and first working prototype were create
 * Created Spotify Developer App
 * Configured OAuth authentication
 * Connected Spotipy to Flask backend
-* Created `/spotify-data` API endpoint
+* Created /spotify-data API endpoint
 * Displayed:
 
   * Current Song
