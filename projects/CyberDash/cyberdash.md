@@ -83,7 +83,7 @@ The entire CyberDash concept, blueprint, and first working prototype were create
 * Cyber Mode
 
 ### Screenshots
-![music](projects/CyberDash/cdmusic.png)
+![music](CybweVerse/projects/CyberDash/cdmusic.png)
 
 ![home](projects/CyberDash/cdhome.png)
 
